@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.exe
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.dll
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.pdb
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.dll
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.pdb
+C:\Users\dimit\source\repos\ExamPreparation\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.genruntimeconfig.cache

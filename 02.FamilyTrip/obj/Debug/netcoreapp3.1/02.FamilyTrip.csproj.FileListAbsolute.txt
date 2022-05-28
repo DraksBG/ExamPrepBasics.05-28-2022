@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.exe
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.dll
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.pdb
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.dll
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.pdb
+C:\Users\dimit\source\repos\ExamPreparation\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.genruntimeconfig.cache

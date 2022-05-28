@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.exe
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.dll
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.pdb
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.dll
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.pdb
+C:\Users\dimit\source\repos\ExamPreparation\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\bin\Debug\netcoreapp3.1\05.Easter Eggs Battle.exe
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\bin\Debug\netcoreapp3.1\05.Easter Eggs Battle.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\bin\Debug\netcoreapp3.1\05.Easter Eggs Battle.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\bin\Debug\netcoreapp3.1\05.Easter Eggs Battle.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\bin\Debug\netcoreapp3.1\05.Easter Eggs Battle.dll
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\bin\Debug\netcoreapp3.1\05.Easter Eggs Battle.pdb
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\obj\Debug\netcoreapp3.1\05.Easter Eggs Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\obj\Debug\netcoreapp3.1\05.Easter Eggs Battle.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\obj\Debug\netcoreapp3.1\05.Easter Eggs Battle.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\obj\Debug\netcoreapp3.1\05.Easter Eggs Battle.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\obj\Debug\netcoreapp3.1\05.Easter Eggs Battle.dll
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\obj\Debug\netcoreapp3.1\05.Easter Eggs Battle.pdb
+C:\Users\dimit\source\repos\ExamPreparation\05.Easter Eggs Battle\obj\Debug\netcoreapp3.1\05.Easter Eggs Battle.genruntimeconfig.cache

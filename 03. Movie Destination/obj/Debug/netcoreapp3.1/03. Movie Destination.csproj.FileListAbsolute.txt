@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.exe
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.dll
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.pdb
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.dll
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.pdb
+C:\Users\dimit\source\repos\ExamPreparation\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.genruntimeconfig.cache

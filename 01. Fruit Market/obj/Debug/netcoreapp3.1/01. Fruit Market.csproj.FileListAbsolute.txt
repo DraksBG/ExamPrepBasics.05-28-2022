@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.exe
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.dll
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\bin\Debug\netcoreapp3.1\01. Fruit Market.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.dll
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01. Fruit Market\obj\Debug\netcoreapp3.1\01. Fruit Market.genruntimeconfig.cache
